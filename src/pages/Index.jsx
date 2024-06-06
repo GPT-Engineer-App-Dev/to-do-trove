@@ -1,4 +1,5 @@
 import { Box, Container, VStack, HStack, Input, Button, Checkbox, Text, IconButton, Heading } from "@chakra-ui/react";
+import { FaUser } from "react-icons/fa";
 import { FaTrash } from "react-icons/fa";
 
 const Index = () => {
